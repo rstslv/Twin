@@ -1,0 +1,22 @@
+2)Internet Of Things (англ.). Gartner IT glossary. Gartner (5 May 2012). Ч ЂThe Internet of Things is the network of physical objects that contain embedded technology to communicate and sense or interact with their internal states or the external environment.ї
+
+URL: https://www.gartner.com/it-glossary/internet-of-things/
+
+6)  NIST, 2011, УCloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interactionФ, p. 6.
+
+[https://csrc.nist.gov/publications/detail/sp/800-145/final]
+
+5) AZURE DIG TWINS 
+https://docs.microsoft.com/ru-ru/azure/digital-twins/about-digital-twins
+
+6)IOT CORE FEATURES. https://aws.amazon.com/ru/iot-core/features/
+
+7) https://www.w3.org/2018/03/wot-f2f/slides/Comparison-AWS+Azure+Oracle-Lagally.pdf
+
+3) IDC RESEARCH
+URL: https://www.idc.com/getdoc.jsp?containerId=prUS44596319
+
+
+4) Towards Digital Twins Cloud Platform: UCC-2017.pdf
+
+1) —. √рингард. »нтернет вещей: Ѕудущее уже здесь.
