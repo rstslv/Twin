@@ -20,3 +20,31 @@ URL: https://www.idc.com/getdoc.jsp?containerId=prUS44596319
 4) Towards Digital Twins Cloud Platform: UCC-2017.pdf
 
 1) С. Грингард. Интернет вещей: Будущее уже здесь.
+
+
+
+
+https://occupancytestdt.northeurope.azuresmartspaces.net/management/api/v1.0/
+
+
+e7e81f3b-3ea8-4dc5-bb40-d99c786d2c9a - id клиента приложения
+f09e1263-1394-47dd-b313-4e9aa90fbe6d - tenant id
+HostName=ih-59e28017-f7ef-458c-8c12-2a95597f9352-1.azure-devices.net;DeviceId=846c2500-09f9-435d-ade6-ba78c08e22a4;SharedAccessKey=dmYasgGO8FX5J03hHStmSsb0jJqcu+a7i1owkz+unW4=
+connection string
+
+
+https://vtechworks.lib.vt.edu/bitstream/handle/10919/85627/Hedberg_TD_D_2018.pdf?sequence=1&isAllowed=y
+
+
+https://ac.els-cdn.com/S1877050915034134/1-s2.0-S1877050915034134-main.pdf?_tid=844e0d26-ccf9-411f-8b8c-2e3071988021&acdnat=1551168788_6e929fda5fa03d70f35e0cf7061482b2
+
+
+A. Canedo and ACM. Industrial IoT lifecycle via digital twins. 2016 International
+Conference on Hardware/Software Codesign and System Synthesis (Codes+Isss), page 1,
+2016. doi: 10.1145/2968456.2974007.
+
+
+
+_______________
+visualizer id 
+9ede7777-03ef-4ea8-9052-6720feaba09b
