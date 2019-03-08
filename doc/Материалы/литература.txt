@@ -48,3 +48,9 @@ Conference on Hardware/Software Codesign and System Synthesis (Codes+Isss), page
 _______________
 visualizer id 
 9ede7777-03ef-4ea8-9052-6720feaba09b
+
+
+
+
+
+5) P. Korambath, J. Wang, A. Kumar, J. Davis, R. Graybill, B. Schott, and M. Baldea, “A smart manufacturing use case: Furnace temperature balancing in steam methane reforming process via kepler workflows,” Procedia Comput. Sci., vol. 80, pp. 680–689, 2016. 
